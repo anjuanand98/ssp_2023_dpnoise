@@ -1,6 +1,6 @@
 # read me
 
-icassp_anon.pdf: anonymous version of our paper under review for ICASSP 2023
+isit_2023.pdf: paper under review for ISIT 2023
 
 kx_noiseless_gaussian.m: code for strategic scalar quantization with \eta_E = (kx-y)^2, \eta_D = (x-y)^2, with source X ~ N(0,1) over a noiseless channel 
 
